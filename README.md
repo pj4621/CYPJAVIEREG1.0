@@ -11,5 +11,8 @@ Aquí va una **descripcion** del *repositorio*
 
 ...
 
+NUM = 10
+print("Numero vale". num)
+...
 
 
