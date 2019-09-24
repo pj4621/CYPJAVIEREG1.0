@@ -1,0 +1,7 @@
+Nom = str(input("Cual es el nombre del dinosaurio?:"))
+Peso = int(input("Cual es el peso del dinosaurio?:"))
+Lon = int(input("Cuanto mide el dinosaurio?:"))
+Peso1 = (Peso * 1000)
+longmet = (Lon * .30471)
+print(f"El peso del {Nom} es igual a: {Peso1} en kilos")
+print(f"La longitud del {Nom} es: {longmet} en metros")
