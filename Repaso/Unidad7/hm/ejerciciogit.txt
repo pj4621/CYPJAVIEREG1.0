@@ -1,0 +1,13 @@
+1.- Crear una carpeta de nombre tareagit
+2.- Acceder e inicializar git con git init.
+3.- Crear 2 archivos. hola.py y adios.py vacios.
+4.- Agregarlos al control de versiones y hacer el primer commit.(primer snapshot)
+5.- Modificar ambos programas python para imprimen en pantalla "Hola mundo" y "adios hasta luego" (respectivamente)
+6.- Pasar a estado commit los cambios.(2o snapshot)
+7.- Crear un programa(numeros.py) python que solicite un numero entero y lo imprime en pantallas.
+8.- Crear un programa(cadenas.py) que pida de entrada una cadena y la imprime al reves.
+9.- Pasar a estado commit ambos archivos  (3er snapshot)
+10.- Subir los cambios a un repositorio en github.com. El nombre del repositorio debe ser "tareagit"
+11.- Crear un branch de nombre "pruebas" y agregar el archivo "test.py"
+12.- modificar el archivo "test.py" para que solicite una cadena por teclado y la imprima en pantalla en mayúsculas.
+13.- hacer push al branch "pruebas" dichos cambios.
